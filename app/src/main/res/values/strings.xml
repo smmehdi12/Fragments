@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string-array name="titles">
+    <item>Murtaza</item>
+    <item>Sohail</item>
+    <item>Farhan</item>
+    <item>Ali</item>
+
+</string-array>
+    <string-array name="description">
+        <item>BSEF12A034 CGPA 3.23</item>
+        <item>BSEF12A013 CGPA 3.23</item>
+        <item>BSEF12A017 CGPA 3.23</item>
+        <item>BSEF12A006 CGPA 3.23</item>
+    </string-array>
+</resources>
